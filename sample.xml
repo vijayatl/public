@@ -9,7 +9,7 @@
     <order order-no="00001150">
         <original-order-no>00001150</original-order-no>
         <status>
-            <order-status>NEW</order-status>
+            <order-status>CREATED</order-status>
         </status>
     </order>
 </orders>
