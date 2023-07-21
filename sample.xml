@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <orders>
-    <order order-no="6000000026">
-        <original-order-no>6000000026</original-order-no>
+    <order order-no="60000000261">
+        <original-order-no>60000000261</original-order-no>
         <status>
             <order-status>NEW</order-status>
         </status>
     </order>
-    <order order-no="00001155">
-        <original-order-no>00001155</original-order-no>
+    <order order-no="000011551">
+        <original-order-no>000011551</original-order-no>
         <status>
             <order-status>CREATED</order-status>
         </status>
