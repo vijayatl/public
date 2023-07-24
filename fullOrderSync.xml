@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <orders xmlns="http://www.demandware.com/xml/impex/order/2006-10-31">
-    <order order-no="00001166">
+    <order order-no="00000315">
         <order-date>2023-07-15T04:28:43.000Z</order-date>
         <created-by>storefront</created-by>
-        <original-order-no>00001166</original-order-no>
+        <original-order-no>00000315</original-order-no>
         <currency>USD</currency>
         <customer-locale>default</customer-locale>
         <taxation>net</taxation>
@@ -22,10 +22,10 @@
             </billing-address>
         </customer>
         <status>
-            <order-status>NEW</order-status>
-            <shipping-status>NOT_SHIPPED</shipping-status>
-            <confirmation-status>NOT_CONFIRMED</confirmation-status>
-            <payment-status>NOT_PAID</payment-status>
+            <order-status>CREATED</order-status>
+            <shipping-status>SHIPPED</shipping-status>
+            <confirmation-status>CONFIRMED</confirmation-status>
+            <payment-status>PAID</payment-status>
         </status>
         <channel-type>InstagramCommerce</channel-type>
         <current-order-no>00001166</current-order-no>
@@ -136,10 +136,10 @@
         <remoteHost>44.197.196.112</remoteHost>
     </order>
 
-    <order order-no="00001155">
+    <order order-no="00000318">
         <order-date>2023-07-14T23:29:32.000Z</order-date>
         <created-by>storefront</created-by>
-        <original-order-no>00001155</original-order-no>
+        <original-order-no>00000318</original-order-no>
         <currency>USD</currency>
         <customer-locale>default</customer-locale>
         <taxation>net</taxation>
@@ -155,10 +155,10 @@
             </billing-address>
         </customer>
         <status>
-            <order-status>NEW</order-status>
+            <order-status>CANCELLED</order-status>
             <shipping-status>NOT_SHIPPED</shipping-status>
-            <confirmation-status>NOT_CONFIRMED</confirmation-status>
-            <payment-status>NOT_PAID</payment-status>
+            <confirmation-status>CONFIRMED</confirmation-status>
+            <payment-status>PAID</payment-status>
         </status>
         <channel-type>InstagramCommerce</channel-type>
         <current-order-no>00001155</current-order-no>
